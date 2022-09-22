@@ -4,8 +4,8 @@ class SwiggyTester{
 		
 		//String item = "Pastries" ;
 		
-		Swiggy.takeOrder("Pastries");
-		Swiggy.takeOrder("Pastries" , 30);
+		//Swiggy.takeOrder("Pastries");
+		Swiggy.takeOrder("Pastries" , 45.00);
 		
 		
 		System.out.println("Your order is ready");
